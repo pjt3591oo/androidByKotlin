@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageView</string>
+    <string name="toat_msg">토스트 메시지</string>
+</resources>

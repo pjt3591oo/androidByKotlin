@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TextView</string>
+    <string name="hello">hello</string>
+    <string name="textview">TextView</string>
+    <string name="needIdInput">아이디를 입력하세요.</string>
+    <string name="button">button</string>
+</resources>
