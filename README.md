@@ -6,3 +6,4 @@
 * ListView
 
 * NavigationView
+* Shared Preferences(Inner DB)
