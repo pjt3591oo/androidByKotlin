@@ -9,3 +9,4 @@
 * Shared Preferences(Inner DB)
 * Camera
 * RecyclerView
+* Fragment
