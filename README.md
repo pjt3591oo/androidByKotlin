@@ -7,3 +7,5 @@
 
 * NavigationView
 * Shared Preferences(Inner DB)
+* Camera
+* RecyclerView
