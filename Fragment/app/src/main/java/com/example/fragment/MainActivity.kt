@@ -8,7 +8,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
+¢
         setFrag(0)
 
         btn_fragment1.setOnClickListener { setFrag(0) }
