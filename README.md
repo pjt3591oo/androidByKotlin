@@ -10,3 +10,5 @@
 * Camera
 * RecyclerView
 * Fragment
+
+* Retrofit2
