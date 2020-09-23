@@ -12,3 +12,4 @@
 * Fragment
 
 * Retrofit2
+* Room(DB)
